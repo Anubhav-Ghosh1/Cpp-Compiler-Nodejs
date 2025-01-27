@@ -1,5 +1,5 @@
 {
-  "name": "cpp-nodejs-backend",
+  "name": "cpp-compiler",
   "version": "1.0.0",
   "description": "A Node.js backend service to compile and execute C++ code.",
   "main": "index.js",
